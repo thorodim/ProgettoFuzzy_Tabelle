@@ -1,7 +1,7 @@
 ### *Progetto Fuzzy*
 
 # [Corso IFTS Per La Sicurezza Delle Reti E Dei Sistemi IT Security Specialist - 2021]
-(https://www.scuolalatecnica.it/ifts)
+https://www.scuolalatecnica.it/ifts
 
 ## *Studente : Restelli Angelo*
 
