@@ -1,4 +1,4 @@
-### Progetto Fuzzy / Compito Finale
+### ~~Progetto Fuzzy~~
 
 # [Corso IFTS Per La Sicurezza Delle Reti E Dei Sistemi IT Security Specialist - 2021]
 (https://www.scuolalatecnica.it/ifts)
@@ -16,4 +16,4 @@ Argomenti Del Corso:
 8. logica fuzzy e logica polivalente
 9. funzioni di verità
 
-~~*Qui Verrà Caricato Il Compito Finale*~~
+*Qui Verrà Caricato Il Compito Finale*
