@@ -16,5 +16,4 @@ Argomenti Del Corso:
 8. logica fuzzy e logica polivalente
 9. funzioni di verità
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+
