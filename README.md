@@ -1,5 +1,7 @@
 ### *Progetto Fuzzy*
 
+![Cattura](https://user-images.githubusercontent.com/74232622/109119529-1abd6280-7745-11eb-9ea9-ed00a3b82f5f.PNG)
+
 # Corso IFTS Per La Sicurezza Delle Reti E Dei Sistemi IT Security Specialist - 2021
 https://www.scuolalatecnica.it/ifts
 
